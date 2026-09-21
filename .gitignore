@@ -1,0 +1,25 @@
+# Python virtual environment
+**/.venv/
+
+# Python cache
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+**/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset files
+**/data/cs-training.csv
+**/data/Data Dictionary.xls
+
+# Temporary requirements file
+**/requirements_freeze.txt
