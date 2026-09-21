@@ -23,3 +23,5 @@ Thumbs.db
 
 # Temporary requirements file
 **/requirements_freeze.txt
+# Large trained model files
+**/models/*.joblib
