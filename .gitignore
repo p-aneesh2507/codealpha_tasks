@@ -25,3 +25,8 @@ Thumbs.db
 **/requirements_freeze.txt
 # Large trained model files
 **/models/*.joblib
+# Task 4 virtual environment
+Task_4_Disease_Prediction/.venv/
+
+# Task 4 trained model files
+Task_4_Disease_Prediction/models/*.joblib
