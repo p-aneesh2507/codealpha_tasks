@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+temp_audio.wav
+
+# Dataset - do not upload
+dataset/
