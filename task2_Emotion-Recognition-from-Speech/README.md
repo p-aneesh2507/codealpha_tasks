@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎙️ Speech Emotion Recognition from Speech
 
 ## 📌 Project Overview
@@ -74,3 +75,6 @@ Emotion Recognition from Speech
 │   └── predict.py
 │
 └── venv/
+=======
+
+>>>>>>> cc1e4afb70ae4ed9470c5d292e1c60b4afbc3bb3
